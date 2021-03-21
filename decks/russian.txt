@@ -1,0 +1,63 @@
+Как	(adv) How
+Кто	(pron) Who
+Да	Yes
+Там	(adv) There
+Нет	No
+Он	(pron) He
+Она	(pron) She
+Как дела?	(phr) How are you/How are things?
+Спасибо	(phr) Thank you
+Завтра	(adv/noun) Tomorrow
+Или	(conj) Or
+Что	(pron/det/adv) What
+Я	(pron) I
+кошка	(nf) cat
+молоко	(nn) milk
+брат	(nm) brother
+сестра	(nf) sister
+Пицца	(nf) pizza
+это	(phr) this is...
+Вода	(nf) water
+добрый вечер	(phr) good evening
+доброе утро	(phr) good morning
+добрый день	(phr) good afternoon
+до скорого	(phr) See you
+до свиданя	(phr) goodbye
+семья	(nf) family
+тарелка	(nf) plate
+велосипед	(nm) bicycle
+меня зовут	(expr) my name is...
+собака	(nf) dog
+извините	(phr) Excuse me
+как сказать...	(expr) how do you say...
+пожалуйста	(expr) please
+что не так?	(expr) What's wrong?
+отлично	(adj) excellent/perfect
+ещё раз	(expr) again
+тетрадь	(nf) notebook
+уже	(adv) already, by now
+где	(adv) where?
+девочка	эта девочка - моя сестра	(nf) girl	This girl is my sister
+парке	Я в парке	(nm) park	I am in the park
+кроват	(nf) bed
+туалет	(nm) bathroom
+дверь	(nf) door
+городе	вы в городе или нет?	(nm) city	Are you in the city or not?
+на	яблоко на столе	(adj/prep) on	The apple is on the table
+книга	(nf) book
+ребёнок	(nm) child
+масло	(nn) butter/oil
+карандаш	(nm) pencil
+видеть	Я вижу наш стол	(vi) to see	I see our table
+картошка	(nf) potato / potatoes
+сыр	(nm) cheese
+приготовить	(vi) to cook
+салат	(nm) salad
+хотеть	(vi) to want, to desire
+пить	(vtr) to drink
+Что это за...	(expr) What kind of ... is this?
+нож	(nm) knife
+вилка	(nf) fork
+есть	(vtr) to eat
+шоколад	(nm) chocolate
+мороженое	(nn) ice cream

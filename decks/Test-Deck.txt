@@ -1,0 +1,5 @@
+chat	(nm) cat
+fleur	(nf) flower
+chien	(nm) dog
+pont	(nm) bridge
+portable	(nm) phone
