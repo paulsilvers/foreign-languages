@@ -1,21 +1,11 @@
-# anki-fl
-Anki foreign language decks
+# foreign-languages
 
-### Workflow
+### SRS Workflow
 
-**Basic Card Mining**
+**My Card Conventions**
 
-With `addCards.py` you can mine basic cards by running `python addCards.py Test-Deck`. The final argument can be changed to whichever deck name you would like. You will be prompted for a front and back side.
-
-**Complex Card Mining**
-
-This should be done within Anki itself. This way, you can add more than just a basic front/back, adding supplemental example sentences/media to help reinforce learning in a more contextual way.
-
-**Card Conventions**
-
-- Basic: `[Front, Back]`
-- myExamples: `[Front, Back, Examples]`
-- mySentences: `[Word, Example, Definition, Translation]`
+- Basic (can include optional media and examples on back): `[Front, Back]`
+- mySentences (can include optional media and examples on back): `[Front (word within a sentence), Back, Sentence Translation]`
 
 ----
 
@@ -35,5 +25,6 @@ This should be done within Anki itself. This way, you can add more than just a b
 7. It should grow and evolve according to your own experiences and desires
 
 **Resources**
+- [Refold](https://refold.la/)
 - [Luca Lampariello - Best Way to Learn a Language](https://www.youtube.com/watch?v=SDLlhUv519k)
 - [Matt vs. Japan - The Role of the SRS](https://www.youtube.com/watch?v=wrBFhsnBQ2k)
