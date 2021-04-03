@@ -25,6 +25,8 @@
 7. It should grow and evolve according to your own experiences and desires
 
 **Resources**
+- [Anki](https://ankiweb.net/)
 - [Refold](https://refold.la/)
+- [Duolingo](https://www.duolingo.com)
 - [Luca Lampariello - Best Way to Learn a Language](https://www.youtube.com/watch?v=SDLlhUv519k)
 - [Matt vs. Japan - The Role of the SRS](https://www.youtube.com/watch?v=wrBFhsnBQ2k)
